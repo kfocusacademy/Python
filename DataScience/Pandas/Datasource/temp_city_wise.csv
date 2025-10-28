@@ -1,0 +1,13 @@
+day,city,temp,winspeed,event
+01-01-2024,Bangalore,24,6,Sunny
+01-02-2024,Bangalore,22,9,Rain
+01-05-2024,Bangalore,26,10,Sunny
+01-06-2024,Bangalore,28,7,Sunny
+01-01-2024,Mumbai,32,6,Sunny
+01-02-2024,Mumbai,,9,Rain
+01-03-2024,Mumbai,36,10,Sunny
+01-04-2024,Mumbai,33,7,Sunny
+01-01-2024,Chennai,31,6,Sunny
+01-02-2024,Chennai,35,9,Rain
+01-03-2024,Chennai,33,10,Sunny
+01-04-2024,Chennai,33,7,Sunny
