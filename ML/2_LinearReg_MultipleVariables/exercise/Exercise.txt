@@ -1,0 +1,6 @@
+Your Task
+Build a multivariate linear regression model to predict Total_cost.
+
+Explore feature importance — which factors drive cost the most?
+
+Add interaction terms (e.g., Length_of_stay × Severity) and see if they improve the model.

@@ -1,0 +1,7 @@
+Find gradient descent for the below data pointers
+
+no_of_test = 1,2,3,4,5
+test_score = 60,65,70,75,80
+
+Compare m and b (from Gradient Descent) with linear regression model (Hint reg.coef_ and reg.interceptor_)
+Also draw a Linear graph for both predicted test and test score value (Hint: use reg.predict method)
